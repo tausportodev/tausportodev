@@ -7,7 +7,7 @@
 - 📧 📤 Contatos profissionais ou demais questões: tauaneporto@gmail.com.
 
 
-<img align="center" src="https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
+<img align="right" src="https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
 
 ##
 
@@ -46,6 +46,3 @@
 </div>
 
 ##
-
-
-![Snake animation](https://github.com/tausportodev/tausportodev/blob/output/github-contribution-grid-snake.svg)
