@@ -6,6 +6,10 @@
 - 🤗 🧑 Pronomes: ela/dela.
 - 📧 📤 Contatos profissionais ou demais questões: tauaneporto@gmail.com.
 
+<div>
+<img align="center"  alt="gif_" src="https://media2.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif?cid=ecf05e47hlet0j2kie4s8a8fka2s3jh3pkikc5g9im9d4ywd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=tausportodev&show_icons=true&theme=ocean_dark"
@@ -26,7 +30,6 @@
 <img align="center" alt="Tau_css" width="80" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="Tau_js" width="110" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="Tau_sql" width="80" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="right"  alt="gif_" src="https://media2.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif?cid=ecf05e47hlet0j2kie4s8a8fka2s3jh3pkikc5g9im9d4ywd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 ##
