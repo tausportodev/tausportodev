@@ -25,7 +25,9 @@
 
 ##
 
-<div>
+🖱️ 🖥️ Tecnologias mais utilizadas:
+
+<div>  
 <img align="center" alt="Tau_ubuntu" width="80" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img align="center" alt="Tau_html" width="80" height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="Tau_css" width="80" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -34,6 +36,8 @@
 </div>
 
 ##
+
+✅ 🙋 Onde me encontrar?
 
 <div> 
   <a href="https://instagram.com/taus.porto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
