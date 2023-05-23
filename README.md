@@ -1,5 +1,5 @@
   
-   ### Olá, eu sou a Tauane Porto! 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8365F7&width=435&lines=Ol%C3%A1!+Eu+sou+a+Tauane.+;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 - 💻 ⏳ Atualmente estudo Programação na Trybe, com o intuito de me tornar uma Desenvolvedora Front-End.
 - 💡 ❇️ Possuo conhecimento sólido em HTML, CSS, JavaScript e SQL.
