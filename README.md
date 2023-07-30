@@ -1,10 +1,11 @@
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!+I'm+Tauane+Porto.)](https://git.io/typing-svg)
+![screen05](https://github.com/tausportodev/tausportodev/assets/131397886/b90aa36c-3b78-426d-8641-edd0c3b32a8e)
 
-- 💻 ⏳ Atualmente estudo Programação na Trybe, com o intuito de me tornar uma Desenvolvedora Front-End.
-- 💡 ❇️ Possuo conhecimento sólido em HTML, CSS, JavaScript e SQL.
-- 🤗 🧑 Pronomes: ela/dela.
-- 📧 📤 Contatos profissionais ou demais questões: tauaneporto@gmail.com.
+- 💻 ⏳ Programming student at Trybe school.
+- 💻 ⏳ Undergraduate student in Computer Science at Estácio de Sá College.
+- 💡 ❇️ Design student at Mentorama school.
+- 💡 ❇️ Animation and Motion Design student at Layer Lemonade school.
+- 📧 📤 Let's work together! Contact: tauaneporto@gmail.com.
 
 
 <img align="center" src="https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
@@ -25,7 +26,7 @@
 
 ##
 
-🖱️ 🖥️ Tecnologias mais utilizadas:
+🖱️ 🖥️ Most commonly used technologies:
 
 <div>  
 <img align="center" alt="Tau_ubuntu" width="80" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -37,7 +38,7 @@
 
 ##
 
-✅ 🙋 Onde me encontrar?
+✅ 🙋 Where to find me?
 
 <div> 
   <a href="https://instagram.com/taus.porto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
